@@ -1,0 +1,14 @@
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\bin\Debug\net7.0\awesomedi.exe
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\bin\Debug\net7.0\awesomedi.deps.json
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\bin\Debug\net7.0\awesomedi.runtimeconfig.json
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\bin\Debug\net7.0\awesomedi.dll
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\bin\Debug\net7.0\awesomedi.pdb
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\obj\Debug\net7.0\awesomedi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\obj\Debug\net7.0\awesomedi.AssemblyInfoInputs.cache
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\obj\Debug\net7.0\awesomedi.AssemblyInfo.cs
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\obj\Debug\net7.0\awesomedi.csproj.CoreCompileInputs.cache
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\obj\Debug\net7.0\awesomedi.dll
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\obj\Debug\net7.0\refint\awesomedi.dll
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\obj\Debug\net7.0\awesomedi.pdb
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\obj\Debug\net7.0\awesomedi.genruntimeconfig.cache
+C:\Users\shuchoudhary\OneDrive - Microsoft\Desktop\code\projects\AwesomeDI\awesomedi\obj\Debug\net7.0\ref\awesomedi.dll
